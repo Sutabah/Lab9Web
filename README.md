@@ -29,3 +29,6 @@ Keduanya memiliki template yang sama dengan mengconnectkan 1 file css
 ![7](https://user-images.githubusercontent.com/81844622/121769860-287de300-cb90-11eb-956e-bee7dd83b721.jpg)
 
 ![8](https://user-images.githubusercontent.com/81844622/121769868-36336880-cb90-11eb-9e96-ff34bac0c7cd.jpg)
+
+
+# Link untuk Pratikum 10 : https://github.com/Sutabah/Lab10Web
