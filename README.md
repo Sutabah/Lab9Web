@@ -24,7 +24,7 @@ Membuat bagian about dengan pemanggilan file header.php dan footer.php
 
 # Pertanyaan dan tugas
 
-Keduanya memiliki template yang sama dengan meconnectkan 1 file css
+Keduanya memiliki template yang sama dengan mengconnectkan 1 file css
 
 ![7](https://user-images.githubusercontent.com/81844622/121769860-287de300-cb90-11eb-956e-bee7dd83b721.jpg)
 
