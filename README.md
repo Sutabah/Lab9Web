@@ -21,3 +21,11 @@ Membuat bagian home dengan pemanggilan file header.php dan footer.php
 Membuat bagian about dengan pemanggilan file header.php dan footer.php
 
 ![4](https://user-images.githubusercontent.com/81844622/121769828-02f0d980-cb90-11eb-8b0b-63ee144598b3.jpg)
+
+# Pertanyaan dan tugas
+
+Keduanya memiliki template yang sama dengan meconnectkan 1 file css
+
+![7](https://user-images.githubusercontent.com/81844622/121769860-287de300-cb90-11eb-956e-bee7dd83b721.jpg)
+
+![8](https://user-images.githubusercontent.com/81844622/121769868-36336880-cb90-11eb-9e96-ff34bac0c7cd.jpg)
